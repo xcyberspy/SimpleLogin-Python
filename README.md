@@ -45,7 +45,12 @@ cd SimpleLogin-Python
 ```
 pip install tk
 ```
+<p>4.run it</p>
 
+```
+with editor or commande : python login.py
+
+```
 <h2>🍰 Contribution Guidelines:</h2>
 
 We welcome contributions to improve SimpleLogin-Python!
